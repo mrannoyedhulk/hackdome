@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mr Annoyed Hulk
-  tagline: Purple Team <p> Learning it the hard way.<br> | 1 step at a time</p>
+  tagline: Purple Team <p> Learning it the hard way,<br> 1 step at a time</p>
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
