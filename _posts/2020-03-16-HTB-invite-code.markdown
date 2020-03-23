@@ -28,3 +28,7 @@ You’ll then be directed to https://www.hackthebox.eu/invite to join Hack The B
 
 ![htb-invite.png](/hackdome/assets/images/posts/HTB-invite-code/htb-invite.png)
 
+##### Oh no ..... Did i misplace the invite code ?
+
+You can clearly see a text box asking us for an invite code. Right click on the page and choose the Inspect Element option. Alternatively, you can press Ctrl + Shift + I to open Chrome’s Developer tools.
+
