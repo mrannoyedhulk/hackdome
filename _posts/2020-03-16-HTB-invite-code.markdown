@@ -16,13 +16,15 @@ To join, you have to "hack" yourself in. Don’t worry, I will try to simplify m
 
 ## So Let's GO !!!
 
-First, visit the official [Hack the Box](https://www.hackthebox.eu) website. As you scroll down to read more information, you will eventually see a join button ; please click on it.
+First, visit the official [Hack the Box](https://www.hackthebox.eu) website. 
 
-![htb.jpg](/hackdome/assets/images/posts/HTB-invite-code/htb.png)
+![htb.png](/hackdome/assets/images/posts/HTB-invite-code/htb.png)
 
-![htb-joinnow.jpg](/assets/images/posts/HTB-invite-code/htb-joinnow.png)
+As you scroll down to read more information, you will eventually see a join button ; please click on it.
+
+![htb-joinnow.png](/hackdome/assets/images/posts/HTB-invite-code/htb-joinnow.png)
 
 You’ll then be directed to https://www.hackthebox.eu/invite to join Hack The Box.
 
-
+![htb-invite.png](/hackdome/assets/images/posts/HTB-invite-code/htb-invite.png)
 
