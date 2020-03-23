@@ -18,7 +18,7 @@ To join, you have to "hack" yourself in. Don’t worry, I will try to simplify m
 
 First, visit the official [Hack the Box](https://www.hackthebox.eu) website. As you scroll down to read more information, you will eventually see a join button ; please click on it.
 
-![](/assets/images/posts/HTB-invite-code/htb.png)
+![htb.jpg](/assets/images/posts/HTB-invite-code/htb.jpg)
 
 You’ll then be directed to https://www.hackthebox.eu/invite to join Hack The Box.
 ```javascript
