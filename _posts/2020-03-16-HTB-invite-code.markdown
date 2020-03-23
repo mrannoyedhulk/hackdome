@@ -4,7 +4,9 @@ title:  "Hack the box: Getting your invite code"
 date:   2020-03-16 23:14:36 +0800
 categories:
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+What is Hack the Box ?
+
+Hack The Box is an online platform that allows you to test and advance your skills in Cybersecurity. The platform contains assorted challenges( real world simulations or CTFs) that are continuously updated. Needless to say, Hack the box is beyond resourceful if you want to level up your cybersecurity skills; especially as a beginner.
 
 ```javascript
 const Razorpay = require('razorpay');
