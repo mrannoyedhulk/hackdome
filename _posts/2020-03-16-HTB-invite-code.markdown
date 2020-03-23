@@ -14,26 +14,15 @@ Hack The Box is an online platform that allows you to test and advance your skil
 To join, you have to "hack" yourself in. Don’t worry, I will try to simplify my guide as much as i can and hope it can help you get in. However, I highly recommend that you first try to get in(on your own), and only use this article as a guide in case you need help.
 
 
-## So Let's GO
+## So Let's GO !!!
 
 First, visit the official [Hack the Box](https://www.hackthebox.eu) website. As you scroll down to read more information, you will eventually see a join button ; please click on it.
 
 ![htb.jpg](/assets/images/posts/HTB-invite-code/htb.jpg)
 
+![htb-joinnow.jpg](/assets/images/posts/HTB-invite-code/htb-joinnow.jpg)
+
 You’ll then be directed to https://www.hackthebox.eu/invite to join Hack The Box.
-```javascript
-const Razorpay = require('razorpay');
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
-
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
 
 
