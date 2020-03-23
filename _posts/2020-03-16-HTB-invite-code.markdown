@@ -20,7 +20,7 @@ First, visit the official [Hack the Box](https://www.hackthebox.eu) website. As 
 
 ![htb.jpg](/assets/images/posts/HTB-invite-code/htb.png)
 
-![htb-joinnow.jpg](/assets/images/posts/HTB-invite-code/htb-joinnow.jpg)
+![htb-joinnow.jpg](/assets/images/posts/HTB-invite-code/htb-joinnow.png)
 
 You’ll then be directed to https://www.hackthebox.eu/invite to join Hack The Box.
 
