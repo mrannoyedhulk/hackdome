@@ -12,7 +12,7 @@ image:
 
 This post documents the complete walkthrough of getting your invite code to register with Hack The Box. If you are uncomfortable with spoilers, please stop reading now.
 
-<!--more-->
+___
 
 ## What is Hack the Box ?
 
