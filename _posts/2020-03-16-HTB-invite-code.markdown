@@ -4,8 +4,9 @@ title:  "Hack the box: Getting your invite code"
 date:   2020-03-16 23:14:36 +0800
 categories: Walkthrough
 tags: ["Hack The Box"]
-image:
-creditlink: https://pixabay.com/photos/forest-mist-nature-trees-mystic-931706/
+comments: true
+image: creditlink: https://pixabay.com/photos/forest-mist-nature-trees-mystic-931706/
+
 ---
 
 This post documents the complete walkthrough of getting your invite code to register with Hack The Box. If you are uncomfortable with spoilers, please stop reading now.
