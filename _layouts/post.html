@@ -15,7 +15,13 @@ layout: default
     <div class="post-date"><i class="icon-calendar"></i>{{ page.date | date: date_format }}</div>
   </div>
 	
-{% if post.image.feature %}
+
+	
+  <div class="post">
+    {{ content }}
+  </div>
+	
+	{% if post.image.feature %}
     <div class="post-image-feature">
       <img src=
       {% if post.image.feature contains 'http' %}
@@ -31,9 +37,6 @@ layout: default
     </div><!-- /.image-wrap -->
     {% endif %}
 	
-  <div class="post">
-    {{ content }}
-  </div>
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
