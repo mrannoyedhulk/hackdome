@@ -36,13 +36,13 @@ No worries. We can right click on the page and choose the Inspect Element option
 
 Going through the javascript ..... Seems like a dead end to me . Sigh .....
 
-![htb-calm.png](/hackdome/assets/images/posts/HTB-invite-code/htb-calm.png , "calm.js")
+![htb-calm.png](/hackdome/assets/images/posts/HTB-invite-code/htb-calm.png  "calm.js")
 
-![htb-frontend.png](/hackdome/assets/images/posts/HTB-invite-code/htb-frontend.png , "TL;DR")
+![htb-frontend.png](/hackdome/assets/images/posts/HTB-invite-code/htb-frontend.png  "TL;DR")
 
 #### But wait ....  this function looks interesing
 
-![htb-inviteapi.png](/hackdome/assets/images/posts/HTB-invite-code/htb-inviteapi.png , "Shine Like a Diamond")
+![htb-inviteapi.png](/hackdome/assets/images/posts/HTB-invite-code/htb-inviteapi.png  "Shine Like a Diamond")
 
 Let's run it within the developer console and see what comes up. As expected, you will get a status code 200 and data as shown below:
 
