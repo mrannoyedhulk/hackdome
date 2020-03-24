@@ -60,5 +60,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-url: mrannoyedhulk.github.io
+url: https://mrannoyedhulk.github.io
 baseurl: /hackdome
