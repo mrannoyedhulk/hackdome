@@ -36,6 +36,7 @@ layout: default
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
+		<a class="excerpt-post-link" href="{{ post.url | relative_url }}">Continue reading →</a>
           {%- endif -%}
 		
 		 {% if post.image.feature %}
@@ -58,11 +59,6 @@ layout: default
       </li>
     {%- endfor -%}
   </ul>
-
-   	{%- if site.show_excerpts -%}
-    {{ post.excerpt }}
-    <a class="excerpt-post-link" href="{{ post.url | relative_url }}">Continue reading →</a>
-{%- endif -%}
 
   <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
