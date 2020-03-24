@@ -16,6 +16,7 @@ plainwhite:
   tagline: Purple Team <p> Learning it the hard way,<br> 1 step at a time</p>
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  disqus-shortname: mrannoyedhulk
 
   # generate social links in footer
   social_links:
@@ -54,7 +55,11 @@ theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jemoji
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-paginate
 
 url: mrannoyedhulk.github.io
 baseurl: /hackdome
