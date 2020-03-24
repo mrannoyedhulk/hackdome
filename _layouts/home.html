@@ -38,11 +38,9 @@ layout: default
             {{ post.excerpt }}
           {%- endif -%}
         </div>
-      </li>
-    {%- endfor -%}
-  </ul>
-
-    {% if post.image.feature %}
+	      
+	      
+	       {% if post.image.feature %}
 	<div class="post-image-feature">
 	  <img class="feature-image" src=
 	  {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
@@ -57,6 +55,12 @@ layout: default
 	  {% endif %}
 	</div><!-- /.image-wrap -->
 	{% endif %}
+	      
+      </li>
+    {%- endfor -%}
+  </ul>
+
+   
 
   <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
 		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
