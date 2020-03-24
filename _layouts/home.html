@@ -55,7 +55,11 @@ layout: default
 	{% endif %}
         </div>
 	      
-	      
+	 {% if excerpt_words != content_words %}
+		<div class="read-more">
+			<a href="{{ post.url }}#start">Read more&hellip;</a>
+		</div>
+		{% endif %}     
 	      
 	      
       </li>
