@@ -20,10 +20,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: @AnnoyedMr
-    github:  MrAnnoyedHulk
+    twitter: AnnoyedMr
+    github: MrAnnoyedHulk
     #linkedIn: in/thelehhman
-    rss: rss
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
