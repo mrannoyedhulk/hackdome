@@ -36,7 +36,7 @@ layout: default
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
-		<a class="excerpt-post-link" href="{{ post.url | relative_url }}">Read More →</a>
+		<a class="excerpt-post-link" href="{{ post.url | relative_url }}#start">Read More →</a>
           {%- endif -%}
 		
 		 {% if post.image.feature %}
