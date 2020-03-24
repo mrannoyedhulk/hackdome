@@ -7,6 +7,7 @@ tags: ["Hack The Box"]
 comments: true
 image: 
     creditlink: https://pixabay.com/photos/forest-mist-nature-trees-mystic-931706/
+    feature: forest-htb-walkthrough.jpg
 
 ---
 
