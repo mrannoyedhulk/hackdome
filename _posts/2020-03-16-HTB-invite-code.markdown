@@ -48,7 +48,11 @@ Let's run it within the developer console and see what comes up. As expected, yo
 
 ![htb-makeinvitecode.png](/hackdome/assets/images/posts/HTB-invite-code/htb-makeinvitecode.png)
 
-Could it really be so easy and simple ? The code is just right there. Bazzinga !!!! Seeing that theres a enctype:"ROT13" tells me that there decoding needs to be done.
+Could it really be so easy and simple ? The code is just right there. 
+
+#####Bazzinga !!!! 
+
+From the enctype:"ROT13", it tells me that there's decoding to be done.
 
 
     0: 200                                                                        
