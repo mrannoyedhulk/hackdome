@@ -50,11 +50,12 @@ Let's run it within the developer console and see what comes up. As expected, yo
 
 Could it really be so easy and simple ? The code is just right there. Bazzinga !!!! Seeing that theres a enctype:"ROT13" tells me that there decoding needs to be done.
 
-'''
-0: 200
-​
-data: Object { data: "**Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr**", **enctype: "ROT13"** }
-'''
+
+    0: 200                                                                        
+    
+    data: Object { data: "**Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr**", **enctype: "ROT13"** }
+    
+
 
 ![lotr-ring.gif](/hackdome/assets/images/posts/HTB-invite-code/lotr-ring.gif)
 
@@ -66,15 +67,11 @@ Now lets head over to decode the code with ROT13.
 
 Firing up the terminal and perform a post command.
 
-'''
-curl -XPOST https://www.hackthebox.eu/api/invite/generate
-'''
+    curl -XPOST https://www.hackthebox.eu/api/invite/generate
 
 and heres the results we gotten and we got another code. Looking out at the format, this code needs some decoding.
 
-'''
-{"success":1,"data":{"code":"S0VLWUItRE9STUktUkZWV0EtRlFKSFItRVBEWkk=","format":"encoded"},"0":200}
-'''
+    {"success":1,"data":{"code":"S0VLWUItRE9STUktUkZWV0EtRlFKSFItRVBEWkk=","format":"encoded"},"0":200}
 
 Heading over to another website for decoding. Pasted the code in and press decode , now we wait.
 
