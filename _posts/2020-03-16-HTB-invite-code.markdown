@@ -57,7 +57,8 @@ From the enctype:"ROT13", it tells me that there's decoding to be done.
 
     0: 200                                                                        
     
-    data: Object { data: "**Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr**", **enctype: "ROT13"** }
+    data: Object { data: "**Va beqre gb trarengr gur vaivgr pbqr,
+    znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr**", **enctype: "ROT13"** }
     
 
 
@@ -75,7 +76,8 @@ Firing up the terminal and perform a post command.
 
 and heres the results we gotten and we got another code. Looking out at the format, this code needs some decoding.
 
-    {"success":1,"data":{"code":"S0VLWUItRE9STUktUkZWV0EtRlFKSFItRVBEWkk=","format":"encoded"},"0":200}
+    {"success":1,"data":{"code":"S0VLWUItRE9STUktUkZWV0EtRlFKSFItRVBEWkk=",
+    "format":"encoded"},"0":200}
 
 Heading over to another website for decoding. Pasted the code in and press decode , now we wait.
 
