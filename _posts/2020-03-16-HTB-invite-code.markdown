@@ -2,7 +2,7 @@
 layout: post
 title:  "Hack the box: Getting your invite code"
 date:   2020-03-16 23:14:36 +0800
-categories:
+categories: [HTB , CTF]
 ---
 
 ## What is Hack the Box ?
