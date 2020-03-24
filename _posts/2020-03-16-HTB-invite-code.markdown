@@ -34,9 +34,9 @@ No worries. We can right click on the page and choose the Inspect Element option
 
 ![htb-jscheck.png](/hackdome/assets/images/posts/HTB-invite-code/htb-jscheck.png)
 
-Going through the javascript ..... Seems like a dead end to me . Sigh !
+Going through the javascript ..... Seems like a dead end to me . Sigh .....
 
-![htb-clam.png](/hackdome/assets/images/posts/HTB-invite-code/htb-calm.png, "calm.js")
+![htb-calm.png](/hackdome/assets/images/posts/HTB-invite-code/htb-calm.png, "calm.js")
 
 ![htb-frontend.png](/hackdome/assets/images/posts/HTB-invite-code/htb-frontend.png, "TL;DR")
 
