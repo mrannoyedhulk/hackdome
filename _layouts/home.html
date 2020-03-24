@@ -30,6 +30,23 @@ layout: default
             <i class="icon-calendar"></i>
             {{ post.date | date: date_format }}</div>
         </div>
+	      
+	      {% if page.image.feature %}
+	<div class="post-image-feature">
+	  <img class="feature-image" src=
+	  {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
+	  "{{ page.image.feature }}"
+	  {% else %}
+	  "{{ site.url }}/img/{{ page.image.feature }}"
+	  {% endif %}
+	  alt="{{ page.title | escape }}">
+
+	  {% if page.image.credit %}
+	  <span class="image-credit"><a href="{{ page.image.creditlink  }}">{{ page.image.credit }}</a></span>
+	  {% endif %}
+	</div><!-- /.image-wrap -->
+	{% endif %}
+	      
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
